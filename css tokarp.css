@@ -1,0 +1,53 @@
+
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:#733f0f;     
+    font-size: 35px ;
+    text-align: center;
+    margin-top: 30px;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;    
+    font-size: 30px ;
+    text-align: center;
+    margin-top: 15px;
+}
+p {
+
+    font-family: 'Times New Roman', Times, serif;
+    color:#733f0f;    
+    font-size: 20px ;
+    text-align: center;
+    
+}
+
+
+.startsida
+{
+    padding: 15px;
+}
+
+.color1
+{
+    background-color: #52a152;
+}
+.color2
+{
+    background-color: #76c376;
+}
+
+.color3
+{
+   background-color:#499149;
+
+   
+}
+@media (max-width:600px){
+    .row{
+        flex-direction: column;
+    }
+}
